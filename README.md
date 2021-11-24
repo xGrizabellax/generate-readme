@@ -1,28 +1,35 @@
-# Eventube ![License: Apache 2.0](<https://img.shields.io/badge/License-Apache_2.0-blue.svg>)
+# Eventube ![License: BSD](<https://img.shields.io/badge/License-BSD_3--Clause-blue.svg>)
   ### Description:
-  Eventube searches a city, and gives you all musical events in that area. It then maps a route and gives you videos of the event.
+  here is a description for eventube.
+
+  ### Table of Contents:
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Contributing](#contributing)
+  * [Tests](#tests)
+  * [Questions](#question)
+  * [License](#license)
 
   ### Installation:
-  Install very carefully...
+  This might help you install eventube.
 
   ### Usage:
-  For deciding if an event is worth your while!
+  Searching events and watching videos of the event.
 
   ### Contributing:
-  You are fully licensed, just have fun!
+  No, just have fun!
 
   ### Tests:
-  Search a city!
+  Make sure everything is operating smoothly.
 
   ### Questions:
-
 
   ---
   ___
 
 # License
-  ### Apache 2.0
-  This project is licensed under the [Apache 2.0 License](https://opensource.org/licenses/Apache-2.0).
+  ### BSD
+  This project is licensed under the [BSD (3-Clause) License](https://opensource.org/licenses/BSD-3-Clause).
 
 
 
