@@ -1,12 +1,6 @@
-<style>
-H1{color:Blue !important;}
-H2{color:DarkOrange !important;}
-p{color:Black !important;}
-</style>
+# ljkhfaksdhf ![License: Apache 2.0](<https://img.shields.io/badge/License-Apache_2.0-blue.svg>)
 
-# fsdafasdf ![License: Apache 2.0](<https://img.shields.io/badge/License-Apache_2.0-blue.svg>)
-
-  safsafadsfsf
+  jklhsfajhfkds
 
   # Table of Contents:
   * [Installation](#installation)
@@ -19,19 +13,18 @@ p{color:Black !important;}
 ---
 
   ## Installation:
-  fsafadfdsafsafa
+  kjhsdlfjkdsfjkldsa
 
   ## Usage:
-  fsafasfsdfsfasdf
+  kshdajklfhdjlksf
 
   ## Contributing:
-  safdadsfasfs
+  kjsfhldjafh
 
   ## Tests:
-  fsadfsf
+  kslhajdfjlksdh
 
   ## Questions:
-
   For any further assistance, you may contact me at:
 
   * Github: [xGrizabellax](<https://github.com/xGrizabellax>)
