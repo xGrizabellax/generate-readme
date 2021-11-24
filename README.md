@@ -2,7 +2,7 @@
 
   safsafadsfsf
 
-  # <font color=red>Table of Contents:</font>
+  # <span style="color:blue">`Table of Contents`</span>
   * [Installation](#installation)
   * [Usage](#usage)
   * [Contributing](#contributing)
