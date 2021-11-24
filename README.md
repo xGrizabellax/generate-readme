@@ -1,35 +1,39 @@
-# Eventube ![License: BSD](<https://img.shields.io/badge/License-BSD_3--Clause-blue.svg>)
-  ### Description:
-  here is a description for eventube.
+# Eventube ![License: MIT](<https://img.shields.io/badge/License-MIT-yellow.svg>)
 
-  ### Table of Contents:
+  This is a description of the project Eventube.
+
+  ## Table of Contents:
   * [Installation](#installation)
   * [Usage](#usage)
   * [Contributing](#contributing)
   * [Tests](#tests)
-  * [Questions](#question)
+  * [Questions](#questions)
   * [License](#license)
 
-  ### Installation:
-  This might help you install eventube.
+  ## Installation:
+  This is how you can properly install the project.
 
-  ### Usage:
-  Searching events and watching videos of the event.
+  ## Usage:
+  To search events, and watch videos of the event.
 
-  ### Contributing:
-  No, just have fun!
+  ## Contributing:
+  Just have fun!
 
-  ### Tests:
-  Make sure everything is operating smoothly.
+  ## Tests:
+  When testing, make sure to use clean code and leave comments!
 
-  ### Questions:
+  ## Questions:
+  For any further assistance, you may contact me at:
+  * [GitHub: xGrizabellax](<https://github.com/xGrizabellax>)
+  OR
+  * Email: sampage6@gmail.com
 
   ---
   ___
 
 # License
-  ### BSD
-  This project is licensed under the [BSD (3-Clause) License](https://opensource.org/licenses/BSD-3-Clause).
+  ### MIT
+  This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 
 
