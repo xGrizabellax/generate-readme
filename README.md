@@ -2,7 +2,7 @@
 
   safsafadsfsf
 
-  # <font color=red>`Table of Contents:`</font>
+  <font color=red># Table of Contents:</font>
   * [Installation](#installation)
   * [Usage](#usage)
   * [Contributing](#contributing)
@@ -25,6 +25,7 @@
   fsadfsf
 
   ## Questions:
+
   For any further assistance, you may contact me at:
 
   * Github: [xGrizabellax](<https://github.com/xGrizabellax>)
