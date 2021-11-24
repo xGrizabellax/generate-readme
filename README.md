@@ -1,8 +1,8 @@
-# Eventube ![License: MIT](<https://img.shields.io/badge/License-MIT-yellow.svg>)
+# fsdafasdf ![License: Apache 2.0](<https://img.shields.io/badge/License-Apache_2.0-blue.svg>)
 
-  This is a description of the project Eventube.
+  safsafadsfsf
 
-  ## Table of Contents:
+  # <span style="color:red>Table of Contents:</span>
   * [Installation](#installation)
   * [Usage](#usage)
   * [Contributing](#contributing)
@@ -10,30 +10,35 @@
   * [Questions](#questions)
   * [License](#license)
 
+---
+
   ## Installation:
-  This is how you can properly install the project.
+  fsafadfdsafsafa
 
   ## Usage:
-  To search events, and watch videos of the event.
+  fsafasfsdfsfasdf
 
   ## Contributing:
-  Just have fun!
+  safdadsfasfs
 
   ## Tests:
-  When testing, make sure to use clean code and leave comments!
+  fsadfsf
 
   ## Questions:
   For any further assistance, you may contact me at:
-  * [GitHub: xGrizabellax](<https://github.com/xGrizabellax>)
+
+  * Github: [xGrizabellax](<https://github.com/xGrizabellax>)
+
   OR
+
   * Email: sampage6@gmail.com
 
   ---
   ___
 
 # License
-  ### MIT
-  This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+  ## Apache 2.0
+  This project is licensed under the [Apache 2.0 License](https://opensource.org/licenses/Apache-2.0).
 
 
 

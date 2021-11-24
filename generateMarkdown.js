@@ -34,7 +34,7 @@ if (license === 'No License') {
   return ``
 } else {
   return `# License
-  ### ${license}
+  ## ${license}
   This project is licensed under the ${renderLicenseLink(license)}.`
 }
 
@@ -47,13 +47,15 @@ function generateMarkdown(data) {
 
   ${data.description}
 
-  ## Table of Contents:
+  # <span style="color:red>Table of Contents:</span>
   * [Installation](#installation)
   * [Usage](#usage)
   * [Contributing](#contributing)
   * [Tests](#tests)
   * [Questions](#questions)
   * [License](#license)
+
+---
 
   ## Installation:
   ${data.installation}
@@ -69,8 +71,11 @@ function generateMarkdown(data) {
 
   ## Questions:
   For any further assistance, you may contact me at:
-  * [GitHub: ${data.username}](<https://github.com/${data.username}>)
+
+  * Github: [${data.username}](<https://github.com/${data.username}>)
+
   OR
+
   * Email: ${data.email}
 
   ---
