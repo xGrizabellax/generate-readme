@@ -47,7 +47,7 @@ function generateMarkdown(data) {
 
   ${data.description}
 
-  # <span style="color:red>Table of Contents:</span>
+  # <font color=red>Table of Contents:</span>
   * [Installation](#installation)
   * [Usage](#usage)
   * [Contributing](#contributing)

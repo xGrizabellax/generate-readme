@@ -1,8 +1,14 @@
+<style>
+H1{color:Blue !important;}
+H2{color:DarkOrange !important;}
+p{color:Black !important;}
+</style>
+
 # fsdafasdf ![License: Apache 2.0](<https://img.shields.io/badge/License-Apache_2.0-blue.svg>)
 
   safsafadsfsf
 
-  <font color=red># Table of Contents:</font>
+  # Table of Contents:
   * [Installation](#installation)
   * [Usage](#usage)
   * [Contributing](#contributing)
