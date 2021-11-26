@@ -4,14 +4,14 @@
 // checks the answer, depending on what it is, it returns a particular link that generates the associated badge
 function renderLicenseBadge(license) {
   if (license === 'MIT') {
-  return `![License: MIT](<https://img.shields.io/badge/License-MIT-yellow.svg>)`
-} else if (license === 'Apache 2.0') {
-  return `![License: Apache 2.0](<https://img.shields.io/badge/License-Apache_2.0-blue.svg>)`
-} else if (license === 'BSD') {
-  return `![License: BSD](<https://img.shields.io/badge/License-BSD_3--Clause-blue.svg>)`
-} else {
-  return ``
-}
+    return `![License: MIT](<https://img.shields.io/badge/License-MIT-yellow.svg>)`
+  } else if (license === 'Apache 2.0') {
+    return `![License: Apache 2.0](<https://img.shields.io/badge/License-Apache_2.0-blue.svg>)`
+  } else if (license === 'BSD') {
+    return `![License: BSD](<https://img.shields.io/badge/License-BSD_3--Clause-blue.svg>)`
+  } else {
+    return ``
+  }
 }
 
 // TODO: Create a function that returns the license link
@@ -28,7 +28,7 @@ function renderLicenseLink(license) {
   } else {
     return ``
   }
-  
+
 }
 
 // TODO: Create a function that returns the license section of README
@@ -37,13 +37,23 @@ function renderLicenseLink(license) {
 // renders the entire "License" section, with proper license heading. Also feeds in the link function so that when the section is created, it automatically has the correct link in the section.
 // if the option 'no license' is selected, an empty string is returned.. meaning no license section is created.
 function renderLicenseSection(license) {
-if (license === 'No License') {
-  return ``
-} else {
-  return `# License
+  if (license === 'No License') {
+    return ``
+  } else {
+    return `# License
   ## ${license}
   This project is licensed under the ${renderLicenseLink(license)}.`
+  }
+
+
 }
+
+function renderTableOfContents(license) {
+  if (license === 'No License') {
+    return ``
+  } else {
+    return `License`
+  }
 
 
 }
@@ -60,7 +70,7 @@ function generateMarkdown(data) {
   * [Contributing](#contributing)
   * [Tests](#tests)
   * [Questions](#questions)
-  * [License](#license)
+  * [${renderTableOfContents(data.license)}](#license)
 
 ---
 
