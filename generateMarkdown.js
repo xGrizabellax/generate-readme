@@ -52,7 +52,7 @@ function renderTableOfContents(license) {
   if (license === 'No License') {
     return ``
   } else {
-    return `* [License]`
+    return `* [License](#license)`
   }
 
 
@@ -70,7 +70,7 @@ function generateMarkdown(data) {
   * [Contributing](#contributing)
   * [Tests](#tests)
   * [Questions](#questions)
-  ${renderTableOfContents(data.license)}(#license)
+  ${renderTableOfContents(data.license)}
 
 ---
 
