@@ -1,6 +1,6 @@
-# jhkfdklhfkah 
+# jkjskaldfbsf ![License: BSD](<https://img.shields.io/badge/License-BSD_3--Clause-blue.svg>)
 
-  khfldashf
+  jdkasflf
 
   # Table of Contents:
   * [Installation](#installation)
@@ -8,35 +8,37 @@
   * [Contributing](#contributing)
   * [Tests](#tests)
   * [Questions](#questions)
-  
+  * [License](#license)
 
 ---
 
   ## Installation:
-  jfhsakdlf
+  kjasbdlcfj
 
   ## Usage:
-  jkdsblfc
+  jfhkblkdsaf
 
   ## Contributing:
-  jdshlakfh
+  hnfbdslhkf
 
   ## Tests:
-  jkasdhflkj
+  jsdnbalfk
 
   ## Questions:
   For any further assistance, you may contact me at:
 
-  * Github: [husdlakhf](<https://github.com/husdlakhf>)
+  * Github: [xGrizabellax](<https://github.com/xGrizabellax>)
 
   OR
 
-  * Email: sjkhlfsadhf
+  * Email: sampage6@gmail.com
 
   ---
   ___
 
-
+# License
+  ## BSD
+  This project is licensed under the [BSD (3-Clause) License](https://opensource.org/licenses/BSD-3-Clause).
 
 
 

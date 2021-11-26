@@ -48,14 +48,12 @@ function renderLicenseSection(license) {
 
 }
 
-function renderTableOfContents(license) {
+function licenseTableOfContents(license) {
   if (license === 'No License') {
     return ``
   } else {
     return `* [License](#license)`
   }
-
-
 }
 
 // TODO: Create a function to generate markdown for README
@@ -70,7 +68,7 @@ function generateMarkdown(data) {
   * [Contributing](#contributing)
   * [Tests](#tests)
   * [Questions](#questions)
-  ${renderTableOfContents(data.license)}
+  ${licenseTableOfContents(data.license)}
 
 ---
 
