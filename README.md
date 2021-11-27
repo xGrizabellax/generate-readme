@@ -1,4 +1,4 @@
-# README Generator ![License: MIT](<https://img.shields.io/badge/License-MIT-yellow.svg>)
+  # README Generator ![License: MIT](<https://img.shields.io/badge/License-MIT-yellow.svg>)
 
   An automatic readme generator for your readme needs. Creates a high-quality, descriptive README.md for your latest project.
 

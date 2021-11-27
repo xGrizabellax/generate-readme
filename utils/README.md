@@ -1,8 +1,6 @@
-<p align:"center">
-  # YES USER YES ![License: MIT](<https://img.shields.io/badge/License-MIT-yellow.svg>)
-  </p>
+# The Best Project! ![License: BSD](<https://img.shields.io/badge/License-BSD_3--Clause-blue.svg>)
 
-  khflsajdhfjlads
+  It is the greatest project that ever existed! There are no better projects.
 
   # Table of Contents:
   * [Installation](#installation)
@@ -15,16 +13,16 @@
 ---
 
   ## Installation:
-  kfdlhsjfhsdjklaf
+  1. Install 2. Have Fun! 3. Partayy
 
   ## Usage:
-  fjhsdggfhjksdafg
+  This is used for anything and everything... it is the best project!
 
   ## Contributing:
-  khjsdafjldsgjfk
+  There are no guidelines as this project can not be made any better!
 
   ## Tests:
-  khjdsfaghjdsfg
+  Test it out carefully and you will experience the greatness.
 
   ## Questions:
   For any further assistance, you may contact me at:
@@ -33,14 +31,14 @@
 
   OR
 
-  * Email: sampage6@gmail.com
+  * Email: sampagecode@gmail.com
 
   ---
   ___
 
 # License
-  ## MIT
-  This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+  ## BSD
+  This project is licensed under the [BSD (3-Clause) License](https://opensource.org/licenses/BSD-3-Clause).
 
 
 
