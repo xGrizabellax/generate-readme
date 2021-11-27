@@ -2,6 +2,8 @@
 
   An automatic readme generator for your readme needs. Creates a high-quality, descriptive README.md for your latest project.
 
+  ### Video:
+  Click the link below to view an example video of the readme generator at work.
   https://watch.screencastify.com/v/yYPFgIWJsYKcZ9n2b8AD
 
   # Table of Contents:
