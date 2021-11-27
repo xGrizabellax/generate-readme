@@ -1,6 +1,5 @@
-<p align:"center">
 # README Generator ![License: MIT](<https://img.shields.io/badge/License-MIT-yellow.svg>)
-</p>
+
   An automatic readme generator for your readme needs. Creates a high-quality, descriptive README.md for your latest project.
 
   ## Video:
@@ -36,7 +35,7 @@
 
   OR
 
-  * Email: sampage6@gmail.com
+  * Email: sampagecode@gmail.com
 
   ---
   ___

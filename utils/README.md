@@ -1,6 +1,8 @@
-# Eventube ![License: Apache 2.0](<https://img.shields.io/badge/License-Apache_2.0-blue.svg>)
+<p align:"center">
+  # YES USER YES ![License: MIT](<https://img.shields.io/badge/License-MIT-yellow.svg>)
+  </p>
 
-  this is a description
+  khflsajdhfjlads
 
   # Table of Contents:
   * [Installation](#installation)
@@ -13,16 +15,16 @@
 ---
 
   ## Installation:
-  explanation necessary
+  kfdlhsjfhsdjklaf
 
   ## Usage:
-  for fun!
+  fjhsdggfhjksdafg
 
   ## Contributing:
-  Nope just have fun!
+  khjsdafjldsgjfk
 
   ## Tests:
-  nope!
+  khjdsfaghjdsfg
 
   ## Questions:
   For any further assistance, you may contact me at:
@@ -37,8 +39,8 @@
   ___
 
 # License
-  ## Apache 2.0
-  This project is licensed under the [Apache 2.0 License](https://opensource.org/licenses/Apache-2.0).
+  ## MIT
+  This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 
 
