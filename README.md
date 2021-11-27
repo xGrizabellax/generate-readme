@@ -1,6 +1,8 @@
 # README Generator ![License: MIT](<https://img.shields.io/badge/License-MIT-yellow.svg>)
 
-  An automatic readme generator for your readme needs. Creates a high-quality, descriptive README.md for your latest project. 
+  An automatic readme generator for your readme needs. Creates a high-quality, descriptive README.md for your latest project.
+
+  https://watch.screencastify.com/v/yYPFgIWJsYKcZ9n2b8AD
 
   # Table of Contents:
   * [Installation](#installation)
