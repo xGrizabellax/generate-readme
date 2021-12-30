@@ -1,6 +1,6 @@
-# The Best Project! ![License: BSD](<https://img.shields.io/badge/License-BSD_3--Clause-blue.svg>)
+# E-Commerce Back End of the Highest Caliber ![License: MIT](<https://img.shields.io/badge/License-MIT-yellow.svg>)
 
-  It is the greatest project that ever existed! There are no better projects.
+  A project that utilizes SQL and sequelize to generate and seed tables. From there you may use GET, POST, PUT, and/or DELETE requests to edit any information.
 
   # Table of Contents:
   * [Installation](#installation)
@@ -13,16 +13,16 @@
 ---
 
   ## Installation:
-  1. Install 2. Have Fun! 3. Partayy
+  Run npm i in your command line. It will probably be helpful to have a split terminal with mysql running in the other as well. Take the code from your schema.sql file and run it in your SQL terminal to create your database. Now you can input 'node ./seeds/index.js' into your main terminal. 
 
   ## Usage:
-  This is used for anything and everything... it is the best project!
+  After installing, make sure you have an API testing tool such as Insomnia or Postman installed. These will be used for all of your requests such as GET, POST, PUT, and  DELETE. Follow the correct routes for the according Models when you submit a request.
 
   ## Contributing:
-  There are no guidelines as this project can not be made any better!
+  N/A
 
   ## Tests:
-  Test it out carefully and you will experience the greatness.
+  N/A
 
   ## Questions:
   For any further assistance, you may contact me at:
@@ -37,8 +37,8 @@
   ___
 
 # License
-  ## BSD
-  This project is licensed under the [BSD (3-Clause) License](https://opensource.org/licenses/BSD-3-Clause).
+  ## MIT
+  This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 
 
